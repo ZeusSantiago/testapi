@@ -1,0 +1,5 @@
+ //to make server continous and updating
+  "scripts": {
+    "start": "node server",
+    "dev": "node--watch server"
+  },
