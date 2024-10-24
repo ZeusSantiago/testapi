@@ -18,3 +18,5 @@ app.use(logger);
 app.use("/api/posts", posts);
 
 app.listen(port, () => console.log(`Server is running in ${port}`));
+
+export default app;
